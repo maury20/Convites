@@ -77,13 +77,13 @@
             <!-- Informações do Evento -->
             <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-2xl border border-gray-100">
                 <div class="flex flex-col items-center justify-center border-r border-gray-200 pr-4">
-                    <span class="font-sport text-3xl text-pink-600 leading-none">25</span>
-                    <span class="font-sport text-xs text-gray-400">FEV</span>
+                    <span class="font-sport text-3xl text-pink-600 leading-none">01</span>
+                    <span class="font-sport text-xs text-gray-400">MAR</span>
                 </div>
                 <div class="flex-1 text-sm">
                     <div class="flex items-center gap-2 text-gray-800 font-bold">
                         <svg class="w-4 h-4 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                        <span>17:00h • Ponta Negra</span>
+                        <span>07:00h • Ponta Negra</span>
                     </div>
                     <div class="text-pink-600 font-bold mt-1 uppercase text-[10px] tracking-wider">Traje Sugerido: Esportivo & Rosa 👟</div>
                 </div>
